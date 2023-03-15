@@ -1,0 +1,49 @@
+.Header{
+    position: relative;
+    background-color: #007377;
+    color: white;
+    
+}
+
+.head-discription{
+    padding: 8px;
+}
+
+.headDiscription{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0px 0px 8px;
+    font-weight: 600;
+}
+.headerdiscription{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+li{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.list-decoration{
+    display: row;
+    justify-content: space-evenly;
+    padding: 8px 8px 0px 0px ;
+}
+
+a.active-class{
+    color: honeydew;
+    border-bottom: solid red;
+
+}
+
+.content-flex{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 5px;
+    border-bottom: solid rgb(89, 163, 242);
+}
+
+.contentTitle{
+    text-align: center;
+}   

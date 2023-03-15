@@ -1,0 +1,1 @@
+export {img1} from "pic1.jpg"
